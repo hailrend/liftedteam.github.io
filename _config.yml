@@ -5,11 +5,11 @@ email: your-email@yourdomain.com
 copyright_name: Lifted
 description: "An Italian Calisthenics Team"
 baseurl: "/lifted"
-url: "http://liftedteam.github.io"
+url: "https://liftedteam.github.io"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap
-email_username:  lienhard.davide@gmail.com
+email_username:  example@subdomain.domain
 icon: /img/logo2.png
 
 # Google Analytics
