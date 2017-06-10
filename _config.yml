@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 copyright_name: Lifted
 description: "An Italian Calisthenics Team"
-baseurl: "/lifted"
+baseurl: ""
 url: "https://liftedteam.github.io"
 twitter_username: SBootstrap
 github_username:  davidtmiller
