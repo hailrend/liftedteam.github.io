@@ -6,7 +6,9 @@ description: "An Italian Calisthenics Team"
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+    	 <img src="{{ post.header-img }}">
+        <h2 class="post-title"> 
+       	{{ post.title }}
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
@@ -19,7 +21,7 @@ description: "An Italian Calisthenics Team"
 <hr>
 {% endfor %}
 
-<!-- Pager -->
+	<!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
