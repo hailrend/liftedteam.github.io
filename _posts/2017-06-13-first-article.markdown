@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "first article"
+title:      "First Article!"
 subtitle:   "The test"
 date:       2017-06-13 23:25:00
 author:     "Hailrend"
