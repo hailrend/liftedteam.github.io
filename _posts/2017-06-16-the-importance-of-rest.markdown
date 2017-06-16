@@ -21,7 +21,7 @@ header-img: "img/rest.png"
 	second is fundamental to use all the strenght you have and have recovered.</i></b> </p>
 <p> Finally, for the ones of you that want to do a further inspection, here I leave you some scientific analysis on this topic:
 <ul>
-	<li> <a href="https://breakingmuscle.com/learn/7-essential-elements-of-rest-and-recovery"><i class="fa fa-link" aria-hidden="true"></i></a></li>
-	<li> <a href="http://msue.anr.msu.edu/news/the_importance_of_rest_and_recovery_for_athletes"><i class="fa fa-link" aria-hidden="true"></i></a></li>
-	<li> <a href="https://www.verywell.com/the-benefits-of-rest-and-recovery-after-exercise-3120575"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+	<li> <a href="https://breakingmuscle.com/learn/7-essential-elements-of-rest-and-recovery"><i class="fa fa-link" aria-hidden="true">Differences between rest and recover</i></a></li>
+	<li> <a href="http://msue.anr.msu.edu/news/the_importance_of_rest_and_recovery_for_athletes"><i class="fa fa-link" aria-hidden="true">Importance of rest and recover for athletes</i></a></li>
+	<li> <a href="https://www.verywell.com/the-benefits-of-rest-and-recovery-after-exercise-3120575"><i class="fa fa-link" aria-hidden="true">benefits of recovering after exercises</i></a></li>
 </ul> </p>
