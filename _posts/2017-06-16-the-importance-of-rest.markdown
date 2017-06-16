@@ -18,7 +18,7 @@ header-img: "img/rest.png"
 	and strenght to do the following set. As I told above, the <b>aim</b> of every training session, <i>if it is an ipertrofic workout routine</i>, must be to <i>"destroy"</i> our fibers,
 	and in order to reach this target we need to take advantage of those breaks to do the highest amount of load we can in every training.</p>
 <p> <b><i>An important thing is that during these breaks you DON'T HAVE to waste time and type texts on your phone, but focus on the next set while caring about the breath, every 
-	second in fundamental to use all the strenght you had and recovered.</i></b> </p>
+	second is fundamental to use all the strenght you have and have recovered.</i></b> </p>
 <p> Finally, for the ones of you that want to do a further inspection, here I leave you some scientific analysis on this topic:
 <ul>
 	<li> <a href="https://breakingmuscle.com/learn/7-essential-elements-of-rest-and-recovery"><i class="fa fa-link" aria-hidden="true"></i></a></li>
