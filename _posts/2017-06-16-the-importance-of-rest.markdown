@@ -6,13 +6,7 @@ date:       2017-06-16 11:21:00
 author:     "Hailrend"
 header-img: "img/rest.png"
 ---
-<p> <b>Resting</b> is important both if meant as sleeping and if meant as the pause between each <b>set</b>. </p>
-<p> In the first case, it is scientifically proved that sleeping 7-8 hours per night isn't only <b>healthy</b>, but fundamental for every <b>sportman</b>. 
-	In fact, during these hours our body can recover from the training we did during the day. It is known that an <b>ipertrofic</b> training session causes <i>micro fractures</i>
- 	in our <i>muscles' fibers</i>, that need to heal. But, as long as we don't let our body to completely recover from this fractures through <b>sleep</b>, we won't be able to do an 
- 	other useful training. So sleeping allows us to recover much faster from our training, in order to be able to do an other session the next days, <b>furthermore</b> it is 
- 	healthy for our brain to rest for <i>- at least -</i> 7 hours per night. So, if you want to get <b>bigger</b>, to make your trainings as useful as possible and to <b>lead</b> a 
- 	healthy and ordered lifestyle, <strong>SLEEP!</strong> </p>
+<p> <b>Resting</b> is extremely important for any sport and it can range from a <i>2 minute break</i> from each set to a <i>7-8 hour long sleep</i>. It’s been scientifically proven that sleeping for 7-8 isn’t only healthy, but <b>fundamental</b> for all athletes and their training regimen. It is during those hours that our body can recover from the training we did during the day. <b>Hypertrophy training</b> (which is a type of training intended for the fastest muscle growth) causes micro fractures within our <i>muscle fibers</i> that need time to heal. If we don't let our body to completely recover from these fractures through sufficient sleep, we <b>won't be able</b> to do any other useful training. Furthermore, <i>at least</i> 7 hours of sleep is essential to maintain a healthy and fully functioning brain. So if you want to gain muscle, make your trainings as useful as possible, and to lead a healthy life, <strong>SLEEP!</strong> </p>
 <p> The other step is resting during your <b>training</b>. In order to do an effective training, you have to follow your workout routine <b>carefully</b> <i>(if created by 
 	someone that knows how to set it up in the right way)</i>, paying extreme <b>attention</b> to the pause time between <b>every</b> set. It allows you to recover the necessary <b>breath</b> 
 	and strenght to do the following set. As I told above, the <b>aim</b> of every training session, <i>if it is an ipertrofic workout routine</i>, must be to <i>"destroy"</i> our fibers,
