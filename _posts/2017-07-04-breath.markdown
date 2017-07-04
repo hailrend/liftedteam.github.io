@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Breath: The Source Of Our Growth"
+subtitle:   "Through the breath, our muscles can recover energy"
+date:       2017-07-04 11:21:00
+author:     "Hailrend"
+header-img: "img/breath.png"
+keywords:	"Breath,breath in workout, sports and breathing,breathe in fitness"
+---
+<p>
+<b>	Breath.</b> Such a simple thing, that we <i>automatically</i> do every second of our lives, but 
+	at the same time the first element that we forget during our trainings. You could think 
+ 	that this basic function for human kind must be difficult to be performed in a bad way... 
+ 	Well, you would be wrong, extremely wrong. It is <b>really difficult</b> to breath in the <i>correct way</i> 
+ 	while working out. As I hope you all know, each type of exercise is composed by two different movements:
+ 	the eccentric phase and the concentric phase. I will explain the function of these two phases in a coming article,
+ 	but breath is fundamental in both of these. In fact, also breathing is composed by 2 moments, inhaling and exhaling.
+ 	So, you have to <b>inhale</b> in the <i>eccentric</i> phase of the exercise and <b>exhale</b> in the <i>concentric</i> part of it.
+ 	This general rule is extremely important because it allows us to get better in our workouts, and even if it will be a difficult thing to do 
+ 	in the right way during the first months, learning to breath from the beginning of our training paths is a farsighted behaviour, that will let us save time in the future,
+ 	when we will approach different and harder exercises. 
+</p>
+<p>
+ 	The chemical explanation of this phenomenon is that our muscles need oxygen to work and to use all of their potential. In order to achieve this, 
+ 	we need to let air get into our muscles, or we won't be able to to the next sets.
+ 	A further point is <b>how to breath</b>. Do we have to breath through our mouth or through our nose? Well, generally speaking it is a good habit to breath through our nose,<i> or at least to inhale through it,</i> because it was made
+ 	for that and because it has the functions to protect our body from the <b>toxic</b> elements that air <i>-especially if you live in popolated cities or near a busy street-</i> contains. <br>
+ 	On the other hand, different sports require different types of breathing, for this purpose you can find an article that explains this topic <a href="link">hereafter.</a>
+</p>
+<p>
+ 	As last time, if any of you would like to deepen this topic, I leave you some more scientific articles from known fitness headboards:
+ 	<li> <a name="link" href="https://greatist.com/fitness/how-breathe-every-type-exercise"><i class="fa fa-link" aria-hidden="true"> Breathing in each type of sport</i></a></li>
+	<li> <a href="https://www.bodybuilding.com/fun/how-to-breathe-when-working-out-and-running.html"><i class="fa fa-link" aria-hidden="true"> Breath in workouts</i></a></li>
+</p>	

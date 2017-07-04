@@ -5,6 +5,7 @@ subtitle:   "Rest is fundamental for increasing gains and growing"
 date:       2017-06-16 11:21:00
 author:     "Hailrend"
 header-img: "img/rest.png"
+keywords:	"rest,recover,rest in sports.difference between rest and recover,recover to improve,sleep"
 ---
 <p> <b>Resting</b> is extremely important for any sport and it can range from a <i>2 minute break</i> from each set to a <i>7-8 hour long sleep</i>. It’s been scientifically proven that sleeping for 7-8 isn’t only healthy, but <b>fundamental</b> for all athletes and their training regimen. It is during those hours that our body can recover from the training we did during the day. <b>Hypertrophy training</b> (which is a type of training intended for the fastest muscle growth) causes micro fractures within our <i>muscle fibers</i> that need time to heal. If we don't let our body to completely recover from these fractures through sufficient sleep, we <b>won't be able</b> to do any other useful training. Furthermore, <i>at least</i> 7 hours of sleep is essential to maintain a healthy and fully functioning brain. So if you want to gain muscle, make your trainings as useful as possible, and to lead a healthy life, <strong>SLEEP!</strong> </p>
 <p> The other step is resting during your <b>training</b>. In order to do an effective training, you have to follow your workout routine <b>carefully</b> <i>(if created by 
