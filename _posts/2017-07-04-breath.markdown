@@ -4,7 +4,7 @@ title:      "Breath: The Source Of Our Growth"
 subtitle:   "Through the breath, our muscles can recover energy"
 date:       2017-07-04 11:21:00
 author:     "Hailrend"
-header-img: "img/breath.png"
+header-img: "img/breath.jpg"
 keywords:	"Breath,breath in workout, sports and breathing,breathe in fitness"
 ---
 <p>
