@@ -25,10 +25,10 @@ keywords:	"Breath,breath in workout, sports and breathing,breathe in fitness"
  	we need to let air get into our muscles, or we won't be able to to the next sets.
  	A further point is <b>how to breath</b>. Do we have to breath through our mouth or through our nose? Well, generally speaking it is a good habit to breath through our nose,<i> or at least to inhale through it,</i> because it was made
  	for that and because it has the functions to protect our body from the <b>toxic</b> elements that air <i>-especially if you live in popolated cities or near a busy street-</i> contains. <br>
- 	On the other hand, different sports require different types of breathing, for this purpose you can find an article that explains this topic <a href="link">hereafter.</a>
+ 	On the other hand, different sports require different types of breathing, for this purpose you can find an article that explains this topic hereafter.
 </p>
 <p>
  	As last time, if any of you would like to deepen this topic, I leave you some more scientific articles from known fitness headboards:
- 	<li> <a name="link" href="https://greatist.com/fitness/how-breathe-every-type-exercise"><i class="fa fa-link" aria-hidden="true"> Breathing in each type of sport</i></a></li>
+ 	<li> <a href="https://greatist.com/fitness/how-breathe-every-type-exercise"><i class="fa fa-link" aria-hidden="true"> Breathing in each type of sport</i></a></li>
 	<li> <a href="https://www.bodybuilding.com/fun/how-to-breathe-when-working-out-and-running.html"><i class="fa fa-link" aria-hidden="true"> Breath in workouts</i></a></li>
 </p>	
